@@ -17,13 +17,13 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Clear selection' => '',
-    'Collapse' => '',
-    'Collapse All' => '',
-    'Expand' => '',
-    'Expand All' => '',
-    'Export All Data' => '',
-    'Tab Delimited Text' => '',
+    'Clear selection' => 'Limpar seleção',
+    'Collapse' => 'Esconder',
+    'Collapse All' => 'Esconder tudo',
+    'Expand' => 'Expandir',
+    'Expand All' => 'Expandir tudo',
+    'Export All Data' => 'Exportar todos os dados',
+    'Tab Delimited Text' => 'Texto delimidato por Tab',
     'Actions' => 'Ações',
     'Active' => 'Ativo',
     'Add Book' => 'Adicionar Livro',
